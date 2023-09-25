@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+[个人简历](../images/曹秋实个人简历.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
