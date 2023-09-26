@@ -18,7 +18,38 @@ redirect_from:
 ======
 主要课程：
 工科数学分析 线性代数 概率论与数理统计
-C语言程序设计 算法设计
+C语言程序设计 算法设计 数据结构与计算理论
+Java面向对象 数据库设计与运用 计算机组成原理
+计算机网络工程 编译原理 操作系统
+数据挖掘与数据分析 深度学习与计算机视觉 机器学习
+
+
+研究生阶段
+======
+
+
+
+实习经历
+======
+- 量化投资选股模型开发，基于深度学习模型
+- 量化风险管理，构建Barra CNE系列模型
+- 未来转向PE/VC市场....
+
+
+能力介绍
+======
+计算机专业技术，90.61/100，3/118
+股票二级市场量化投资的认识和实践
+利用python的数据分析及深度学习模型开发
+完备的基础数学知识体系和数理分析能力
+熟练运用金融机构计算机系统实现需求
+中国A股市场的投资经验
+
+
+个人爱好
+======
+- 10年以上的乐团经历
+- 体育运动
 
 
 
@@ -31,9 +62,6 @@ If you want the same GitHub rep
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 Create content & metadata
 ------
@@ -51,6 +79,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
